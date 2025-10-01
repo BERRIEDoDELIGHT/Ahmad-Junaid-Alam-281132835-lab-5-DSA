@@ -26,16 +26,16 @@ class Stack:
 
 myStack = Stack()
 
-def main():
-    myStack.Push('A')
-    myStack.Push('B')
-    myStack.Push('C')
+# def main():
+#     myStack.Push('A')
+#     myStack.Push('B')
+#     myStack.Push('C')
 
-    print(myStack.peek())
+#     print(myStack.peek())
 
-    print(myStack.pop())
-    print(myStack.stack)
-    print(myStack.size())
-    print(myStack.isEmpty())
+#     print(myStack.pop())
+#     print(myStack.stack)
+#     print(myStack.size())
+#     print(myStack.isEmpty())
 
-main()
+# main()
