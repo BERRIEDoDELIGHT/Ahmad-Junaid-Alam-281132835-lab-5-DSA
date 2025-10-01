@@ -17,12 +17,12 @@ def reverse_str(st):
     
 
 
-# def main2():
-#     b = ['A','B','C']
-#     reverse_str(b)
+def main2():
+    b = ['A','B','C']
+    reverse_str(b)
 
-#     c= ['N','J','G']
-#     reverse_str(c)
+    c= ['N','J','G']
+    reverse_str(c)
 
 
-# main2()
+main2()
