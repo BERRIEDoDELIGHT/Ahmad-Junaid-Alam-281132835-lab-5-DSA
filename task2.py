@@ -26,17 +26,17 @@ class Queue:
 
 myQueue= Queue()
 
-# def main():
+def main():
   
-#     myQueue.enqueue('A')
-#     myQueue.enqueue('B')
-#     myQueue.enqueue('C')
+    myQueue.enqueue('A')
+    myQueue.enqueue('B')
+    myQueue.enqueue('C')
 
-#     print(myQueue.peek())
+    print(myQueue.peek())
 
-#     print(myQueue.dequeue())
-#     print(myQueue.queue)
-#     print(myQueue.size())
-#     print(myQueue.isEmpty())
+    print(myQueue.dequeue())
+    print(myQueue.queue)
+    print(myQueue.size())
+    print(myQueue.isEmpty())
 
-# main()
+main()
